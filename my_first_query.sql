@@ -1,0 +1,1 @@
+SELECT 'Hello, SQL Server!' AS MyFirstMessage;
